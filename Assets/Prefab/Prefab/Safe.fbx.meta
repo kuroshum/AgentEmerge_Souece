@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: 5fb300f5be84c5043aa9b3f20249a50a
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Torus.001
+    100004: Torus.002
+    100006: "\u5186\u67F1"
+    100008: "\u5186\u67F1.001"
+    100010: "\u5186\u67F1.002"
+    100012: "\u5186\u67F1.003"
+    100014: "\u5186\u67F1.004"
+    100016: "\u5186\u67F1.005"
+    100018: "\u5186\u67F1.006"
+    100020: "\u5186\u67F1.007"
+    100022: "\u5186\u67F1.008"
+    100024: "\u5186\u67F1.009"
+    100026: "\u5186\u67F1.010"
+    100028: "\u5186\u67F1.011"
+    100030: "\u5186\u67F1.012"
+    100032: "\u5186\u67F1.013"
+    100034: "\u5186\u67F1.014"
+    100036: "\u7403"
+    100038: "\u7403.001"
+    100040: "\u7403.002"
+    100042: "\u7403.003"
+    100044: "\u7403.004"
+    100046: "\u7403.005"
+    100048: "\u7403.006"
+    100050: "\u7ACB\u65B9\u4F53"
+    100052: "\u7ACB\u65B9\u4F53.001"
+    100054: "\u7ACB\u65B9\u4F53.002"
+    100056: "\u7ACB\u65B9\u4F53.003"
+    100058: "\u7ACB\u65B9\u4F53.004"
+    100060: "\u7ACB\u65B9\u4F53.005"
+    100062: "\u7ACB\u65B9\u4F53.006"
+    100064: "\u7ACB\u65B9\u4F53.007"
+    100066: "\u7ACB\u65B9\u4F53.008"
+    100068: "\u7ACB\u65B9\u4F53.009"
+    100070: "\u7ACB\u65B9\u4F53.010"
+    100072: "\u7ACB\u65B9\u4F53.011"
+    100074: "\u7ACB\u65B9\u4F53.012"
+    100076: "\u7ACB\u65B9\u4F53.013"
+    100078: "\u7ACB\u65B9\u4F53.014"
+    100080: "\u7ACB\u65B9\u4F53.015"
+    400000: //RootNode
+    400002: Torus.001
+    400004: Torus.002
+    400006: "\u5186\u67F1"
+    400008: "\u5186\u67F1.001"
+    400010: "\u5186\u67F1.002"
+    400012: "\u5186\u67F1.003"
+    400014: "\u5186\u67F1.004"
+    400016: "\u5186\u67F1.005"
+    400018: "\u5186\u67F1.006"
+    400020: "\u5186\u67F1.007"
+    400022: "\u5186\u67F1.008"
+    400024: "\u5186\u67F1.009"
+    400026: "\u5186\u67F1.010"
+    400028: "\u5186\u67F1.011"
+    400030: "\u5186\u67F1.012"
+    400032: "\u5186\u67F1.013"
+    400034: "\u5186\u67F1.014"
+    400036: "\u7403"
+    400038: "\u7403.001"
+    400040: "\u7403.002"
+    400042: "\u7403.003"
+    400044: "\u7403.004"
+    400046: "\u7403.005"
+    400048: "\u7403.006"
+    400050: "\u7ACB\u65B9\u4F53"
+    400052: "\u7ACB\u65B9\u4F53.001"
+    400054: "\u7ACB\u65B9\u4F53.002"
+    400056: "\u7ACB\u65B9\u4F53.003"
+    400058: "\u7ACB\u65B9\u4F53.004"
+    400060: "\u7ACB\u65B9\u4F53.005"
+    400062: "\u7ACB\u65B9\u4F53.006"
+    400064: "\u7ACB\u65B9\u4F53.007"
+    400066: "\u7ACB\u65B9\u4F53.008"
+    400068: "\u7ACB\u65B9\u4F53.009"
+    400070: "\u7ACB\u65B9\u4F53.010"
+    400072: "\u7ACB\u65B9\u4F53.011"
+    400074: "\u7ACB\u65B9\u4F53.012"
+    400076: "\u7ACB\u65B9\u4F53.013"
+    400078: "\u7ACB\u65B9\u4F53.014"
+    400080: "\u7ACB\u65B9\u4F53.015"
+    2300000: Torus.001
+    2300002: Torus.002
+    2300004: "\u5186\u67F1"
+    2300006: "\u5186\u67F1.001"
+    2300008: "\u5186\u67F1.002"
+    2300010: "\u5186\u67F1.003"
+    2300012: "\u5186\u67F1.004"
+    2300014: "\u5186\u67F1.005"
+    2300016: "\u5186\u67F1.006"
+    2300018: "\u5186\u67F1.007"
+    2300020: "\u5186\u67F1.008"
+    2300022: "\u5186\u67F1.009"
+    2300024: "\u5186\u67F1.010"
+    2300026: "\u5186\u67F1.011"
+    2300028: "\u5186\u67F1.012"
+    2300030: "\u5186\u67F1.013"
+    2300032: "\u5186\u67F1.014"
+    2300034: "\u7403"
+    2300036: "\u7403.001"
+    2300038: "\u7403.002"
+    2300040: "\u7403.003"
+    2300042: "\u7403.004"
+    2300044: "\u7403.005"
+    2300046: "\u7403.006"
+    2300048: "\u7ACB\u65B9\u4F53"
+    2300050: "\u7ACB\u65B9\u4F53.001"
+    2300052: "\u7ACB\u65B9\u4F53.002"
+    2300054: "\u7ACB\u65B9\u4F53.003"
+    2300056: "\u7ACB\u65B9\u4F53.004"
+    2300058: "\u7ACB\u65B9\u4F53.005"
+    2300060: "\u7ACB\u65B9\u4F53.006"
+    2300062: "\u7ACB\u65B9\u4F53.007"
+    2300064: "\u7ACB\u65B9\u4F53.008"
+    2300066: "\u7ACB\u65B9\u4F53.009"
+    2300068: "\u7ACB\u65B9\u4F53.010"
+    2300070: "\u7ACB\u65B9\u4F53.011"
+    2300072: "\u7ACB\u65B9\u4F53.012"
+    2300074: "\u7ACB\u65B9\u4F53.013"
+    2300076: "\u7ACB\u65B9\u4F53.014"
+    2300078: "\u7ACB\u65B9\u4F53.015"
+    3300000: Torus.001
+    3300002: Torus.002
+    3300004: "\u5186\u67F1"
+    3300006: "\u5186\u67F1.001"
+    3300008: "\u5186\u67F1.002"
+    3300010: "\u5186\u67F1.003"
+    3300012: "\u5186\u67F1.004"
+    3300014: "\u5186\u67F1.005"
+    3300016: "\u5186\u67F1.006"
+    3300018: "\u5186\u67F1.007"
+    3300020: "\u5186\u67F1.008"
+    3300022: "\u5186\u67F1.009"
+    3300024: "\u5186\u67F1.010"
+    3300026: "\u5186\u67F1.011"
+    3300028: "\u5186\u67F1.012"
+    3300030: "\u5186\u67F1.013"
+    3300032: "\u5186\u67F1.014"
+    3300034: "\u7403"
+    3300036: "\u7403.001"
+    3300038: "\u7403.002"
+    3300040: "\u7403.003"
+    3300042: "\u7403.004"
+    3300044: "\u7403.005"
+    3300046: "\u7403.006"
+    3300048: "\u7ACB\u65B9\u4F53"
+    3300050: "\u7ACB\u65B9\u4F53.001"
+    3300052: "\u7ACB\u65B9\u4F53.002"
+    3300054: "\u7ACB\u65B9\u4F53.003"
+    3300056: "\u7ACB\u65B9\u4F53.004"
+    3300058: "\u7ACB\u65B9\u4F53.005"
+    3300060: "\u7ACB\u65B9\u4F53.006"
+    3300062: "\u7ACB\u65B9\u4F53.007"
+    3300064: "\u7ACB\u65B9\u4F53.008"
+    3300066: "\u7ACB\u65B9\u4F53.009"
+    3300068: "\u7ACB\u65B9\u4F53.010"
+    3300070: "\u7ACB\u65B9\u4F53.011"
+    3300072: "\u7ACB\u65B9\u4F53.012"
+    3300074: "\u7ACB\u65B9\u4F53.013"
+    3300076: "\u7ACB\u65B9\u4F53.014"
+    3300078: "\u7ACB\u65B9\u4F53.015"
+    4300000: "\u7ACB\u65B9\u4F53.008"
+    4300002: "\u5186\u67F1.014"
+    4300004: "\u5186\u67F1.013"
+    4300006: "\u7403.001"
+    4300008: "\u7ACB\u65B9\u4F53.007"
+    4300010: "\u5186\u67F1.005"
+    4300012: "\u5186\u67F1.004"
+    4300014: "\u5186\u67F1.003"
+    4300016: "\u7403"
+    4300018: "\u5186\u67F1.002"
+    4300020: Torus.002
+    4300022: "\u5186\u67F1.001"
+    4300024: Torus.001
+    4300026: "\u7ACB\u65B9\u4F53.001"
+    4300028: "\u5186\u67F1"
+    4300030: "\u7ACB\u65B9\u4F53"
+    4300032: "\u7ACB\u65B9\u4F53.002"
+    4300034: "\u7ACB\u65B9\u4F53.003"
+    4300036: "\u7ACB\u65B9\u4F53.004"
+    4300038: "\u7ACB\u65B9\u4F53.005"
+    4300040: "\u7ACB\u65B9\u4F53.006"
+    4300042: "\u5186\u67F1.006"
+    4300044: "\u5186\u67F1.007"
+    4300046: "\u5186\u67F1.008"
+    4300048: "\u5186\u67F1.009"
+    4300050: "\u5186\u67F1.010"
+    4300052: "\u5186\u67F1.011"
+    4300054: "\u5186\u67F1.012"
+    4300056: "\u7403.002"
+    4300058: "\u7403.003"
+    4300060: "\u7403.004"
+    4300062: "\u7403.005"
+    4300064: "\u7403.006"
+    4300066: "\u7ACB\u65B9\u4F53.009"
+    4300068: "\u7ACB\u65B9\u4F53.010"
+    4300070: "\u7ACB\u65B9\u4F53.011"
+    4300072: "\u7ACB\u65B9\u4F53.012"
+    4300074: "\u7ACB\u65B9\u4F53.013"
+    4300076: "\u7ACB\u65B9\u4F53.014"
+    4300078: "\u7ACB\u65B9\u4F53.015"
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lock
+    second: {fileID: 2100000, guid: e3cfee2e3ff1796478429f5d5a0322d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lock.001
+    second: {fileID: 2100000, guid: 3e4c2bfaaf33b6a469392acd878cbb7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lock.002
+    second: {fileID: 2100000, guid: 181cc00ab7ac01c4aaad4f64c2d2758c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lock.003
+    second: {fileID: 2100000, guid: 03fdc210727d1a44d9bf9eab571686af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lock.004
+    second: {fileID: 2100000, guid: 4fabac7a4e17c864d8ad6078f7504354, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lock.005
+    second: {fileID: 2100000, guid: dd62a6a696bc66f45987000f43c5fab1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lock_Door_1
+    second: {fileID: 2100000, guid: d606d8aae3ba00b4fad677dba9df66bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lock_Door_1.001
+    second: {fileID: 2100000, guid: 4c47583af0773ca4d93acc0a6bb732e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lock_Door_1.002
+    second: {fileID: 2100000, guid: f45c8594467f15e4ca76188ddaa8860f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lock_Door_1.003
+    second: {fileID: 2100000, guid: 785fbb811313da8458a818b5f9145878, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lock_Door_1.004
+    second: {fileID: 2100000, guid: 65aae308a911b73469d43d5db5766a79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lock_Door_1.005
+    second: {fileID: 2100000, guid: 833a2bc11afa7af40b3195e916a11ceb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lock_Door_1.006
+    second: {fileID: 2100000, guid: 6034b7a37eac9ca4b89971a36151a37e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lock_bace
+    second: {fileID: 2100000, guid: c1f131c08eb5bbd4292dd515ae25507f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lock_bace.001
+    second: {fileID: 2100000, guid: 6f0ccfa74c334c24da9c818b546f0e46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lock_bace.002
+    second: {fileID: 2100000, guid: 9f519ffea142d4141877c05d581a197d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lock_bace.003
+    second: {fileID: 2100000, guid: 8f425b7e1125be64bbdc5428b9fe405f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lock_bace.004
+    second: {fileID: 2100000, guid: d48d8874e26207046a35148698d7ce2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lock_bace.005
+    second: {fileID: 2100000, guid: daba667e0e3106c4a8a8fa9bd5a0f352, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lock_ball
+    second: {fileID: 2100000, guid: d74c71a59cc26ed4ab0e13da40c4e535, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lock_center
+    second: {fileID: 2100000, guid: 0984cc85f9e0aaa428f8bda0f3c52d42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lock_centerb
+    second: {fileID: 2100000, guid: 6042348422759244897462777f347dbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lock_centers
+    second: {fileID: 2100000, guid: 54cacaedbcb146e4399e1b36551f77b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lock_stop
+    second: {fileID: 2100000, guid: b4e89b2ad3622d94d815ca1e788e3c6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lock_stop.001
+    second: {fileID: 2100000, guid: 74243ef90917b8e4bad295e0d661c233, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lock_stop.002
+    second: {fileID: 2100000, guid: e2e48f4506dcb79478d380c63315a6ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lock_stop.003
+    second: {fileID: 2100000, guid: 42ef325ba28fef64a9db3e0cdd08c504, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lock_stop.004
+    second: {fileID: 2100000, guid: 8289929c5e23e5441b23df50e53fc94a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lock_stop.005
+    second: {fileID: 2100000, guid: 269cfd139d84c1d4b82d360f3a934fe8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: The_safe
+    second: {fileID: 2100000, guid: cc30ad5c749641645aa976306f46929b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall
+    second: {fileID: 2100000, guid: da4680e9a645588499d81c8b5299ba05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gate
+    second: {fileID: 2100000, guid: 41ace273a17f3e648b0f283bcc3f9aad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: safe_door
+    second: {fileID: 2100000, guid: 35622256511c2904cb6b9ecb309263a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: safe_door.001
+    second: {fileID: 2100000, guid: cbd04ba60b4c4bc43ac2858a298e7e76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sign
+    second: {fileID: 2100000, guid: ad3f93fa83787544c90d9892531562fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: signal
+    second: {fileID: 2100000, guid: d30243acb03f8314692f1b0485c0500f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: signal_b
+    second: {fileID: 2100000, guid: d9709e71b73c0194484936610ddaf112, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: signgal_bl
+    second: {fileID: 2100000, guid: 7864f593744c2e947a34c8f05b682c46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stair_metal
+    second: {fileID: 2100000, guid: 4edb8ec04adc7624e918b3dc0eaac099, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stair_metal.001
+    second: {fileID: 2100000, guid: 4962d4e9ee3dc7540802bdb1b0dc2721, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stair_metal.002
+    second: {fileID: 2100000, guid: 6b3ba37c7a5494447846b1a8f243f566, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stair_metal.003
+    second: {fileID: 2100000, guid: 5eaa8f801357a6e40bb85d6e6e5bad3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stair_metal.004
+    second: {fileID: 2100000, guid: 893e28ec83601c04d969a6c3705bbe55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stair_metal.005
+    second: {fileID: 2100000, guid: 02e8032f1227d5b4dacb9864ff75f70f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stair_metal.006
+    second: {fileID: 2100000, guid: 78a5b936801653846b8e18366f4004b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stair_metal.007
+    second: {fileID: 2100000, guid: 363584ddf57fca7468b9547f5f5b56a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: surcle_lock
+    second: {fileID: 2100000, guid: b38eae57479d81c429e064fa6291d316, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

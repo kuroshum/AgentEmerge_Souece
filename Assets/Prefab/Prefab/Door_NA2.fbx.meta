@@ -1,0 +1,459 @@
+fileFormatVersion: 2
+guid: 686bf8650c6022c4785cbffcc2159f43
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Torus
+    100004: Torus.001
+    100006: "\u5186\u67F1"
+    100008: "\u5186\u67F1.001"
+    100010: "\u5186\u67F1.002"
+    100012: "\u5186\u67F1.003"
+    100014: "\u5186\u67F1.004"
+    100016: "\u5186\u67F1.005"
+    100018: "\u5186\u67F1.006"
+    100020: "\u5186\u67F1.007"
+    100022: "\u5186\u67F1.008"
+    100024: "\u5186\u67F1.009"
+    100026: "\u5186\u67F1.010"
+    100028: "\u5186\u67F1.011"
+    100030: "\u7403"
+    100032: "\u7403.001"
+    100034: "\u7403.002"
+    100036: "\u7403.003"
+    100038: "\u7403.004"
+    100040: "\u7403.005"
+    100042: "\u7403.006"
+    100044: "\u7403.007"
+    100046: "\u7403.008"
+    100048: "\u7403.009"
+    100050: "\u7403.010"
+    100052: "\u7403.011"
+    100054: "\u7403.012"
+    100056: "\u7403.013"
+    100058: "\u7403.014"
+    100060: "\u7403.015"
+    100062: "\u7403.016"
+    100064: "\u7403.017"
+    100066: "\u7403.018"
+    100068: "\u7403.019"
+    100070: "\u7403.020"
+    100072: "\u7403.021"
+    100074: "\u7403.022"
+    100076: "\u7403.023"
+    100078: "\u7403.024"
+    100080: "\u7403.025"
+    100082: "\u7ACB\u65B9\u4F53"
+    100084: "\u7ACB\u65B9\u4F53.001"
+    400000: //RootNode
+    400002: Torus
+    400004: Torus.001
+    400006: "\u5186\u67F1"
+    400008: "\u5186\u67F1.001"
+    400010: "\u5186\u67F1.002"
+    400012: "\u5186\u67F1.003"
+    400014: "\u5186\u67F1.004"
+    400016: "\u5186\u67F1.005"
+    400018: "\u5186\u67F1.006"
+    400020: "\u5186\u67F1.007"
+    400022: "\u5186\u67F1.008"
+    400024: "\u5186\u67F1.009"
+    400026: "\u5186\u67F1.010"
+    400028: "\u5186\u67F1.011"
+    400030: "\u7403"
+    400032: "\u7403.001"
+    400034: "\u7403.002"
+    400036: "\u7403.003"
+    400038: "\u7403.004"
+    400040: "\u7403.005"
+    400042: "\u7403.006"
+    400044: "\u7403.007"
+    400046: "\u7403.008"
+    400048: "\u7403.009"
+    400050: "\u7403.010"
+    400052: "\u7403.011"
+    400054: "\u7403.012"
+    400056: "\u7403.013"
+    400058: "\u7403.014"
+    400060: "\u7403.015"
+    400062: "\u7403.016"
+    400064: "\u7403.017"
+    400066: "\u7403.018"
+    400068: "\u7403.019"
+    400070: "\u7403.020"
+    400072: "\u7403.021"
+    400074: "\u7403.022"
+    400076: "\u7403.023"
+    400078: "\u7403.024"
+    400080: "\u7403.025"
+    400082: "\u7ACB\u65B9\u4F53"
+    400084: "\u7ACB\u65B9\u4F53.001"
+    2300000: Torus
+    2300002: Torus.001
+    2300004: "\u5186\u67F1"
+    2300006: "\u5186\u67F1.001"
+    2300008: "\u5186\u67F1.002"
+    2300010: "\u5186\u67F1.003"
+    2300012: "\u5186\u67F1.004"
+    2300014: "\u5186\u67F1.005"
+    2300016: "\u5186\u67F1.006"
+    2300018: "\u5186\u67F1.007"
+    2300020: "\u5186\u67F1.008"
+    2300022: "\u5186\u67F1.009"
+    2300024: "\u5186\u67F1.010"
+    2300026: "\u5186\u67F1.011"
+    2300028: "\u7403"
+    2300030: "\u7403.001"
+    2300032: "\u7403.002"
+    2300034: "\u7403.003"
+    2300036: "\u7403.004"
+    2300038: "\u7403.005"
+    2300040: "\u7403.006"
+    2300042: "\u7403.007"
+    2300044: "\u7403.008"
+    2300046: "\u7403.009"
+    2300048: "\u7403.010"
+    2300050: "\u7403.011"
+    2300052: "\u7403.012"
+    2300054: "\u7403.013"
+    2300056: "\u7403.014"
+    2300058: "\u7403.015"
+    2300060: "\u7403.016"
+    2300062: "\u7403.017"
+    2300064: "\u7403.018"
+    2300066: "\u7403.019"
+    2300068: "\u7403.020"
+    2300070: "\u7403.021"
+    2300072: "\u7403.022"
+    2300074: "\u7403.023"
+    2300076: "\u7403.024"
+    2300078: "\u7403.025"
+    2300080: "\u7ACB\u65B9\u4F53"
+    2300082: "\u7ACB\u65B9\u4F53.001"
+    3300000: Torus
+    3300002: Torus.001
+    3300004: "\u5186\u67F1"
+    3300006: "\u5186\u67F1.001"
+    3300008: "\u5186\u67F1.002"
+    3300010: "\u5186\u67F1.003"
+    3300012: "\u5186\u67F1.004"
+    3300014: "\u5186\u67F1.005"
+    3300016: "\u5186\u67F1.006"
+    3300018: "\u5186\u67F1.007"
+    3300020: "\u5186\u67F1.008"
+    3300022: "\u5186\u67F1.009"
+    3300024: "\u5186\u67F1.010"
+    3300026: "\u5186\u67F1.011"
+    3300028: "\u7403"
+    3300030: "\u7403.001"
+    3300032: "\u7403.002"
+    3300034: "\u7403.003"
+    3300036: "\u7403.004"
+    3300038: "\u7403.005"
+    3300040: "\u7403.006"
+    3300042: "\u7403.007"
+    3300044: "\u7403.008"
+    3300046: "\u7403.009"
+    3300048: "\u7403.010"
+    3300050: "\u7403.011"
+    3300052: "\u7403.012"
+    3300054: "\u7403.013"
+    3300056: "\u7403.014"
+    3300058: "\u7403.015"
+    3300060: "\u7403.016"
+    3300062: "\u7403.017"
+    3300064: "\u7403.018"
+    3300066: "\u7403.019"
+    3300068: "\u7403.020"
+    3300070: "\u7403.021"
+    3300072: "\u7403.022"
+    3300074: "\u7403.023"
+    3300076: "\u7403.024"
+    3300078: "\u7403.025"
+    3300080: "\u7ACB\u65B9\u4F53"
+    3300082: "\u7ACB\u65B9\u4F53.001"
+    4300000: "\u5186\u67F1.004"
+    4300002: "\u5186\u67F1"
+    4300004: "\u7403"
+    4300006: Torus
+    4300008: "\u7ACB\u65B9\u4F53.001"
+    4300010: "\u7ACB\u65B9\u4F53"
+    4300012: Torus.001
+    4300014: "\u7403.001"
+    4300016: "\u5186\u67F1.001"
+    4300018: "\u5186\u67F1.002"
+    4300020: "\u5186\u67F1.003"
+    4300022: "\u5186\u67F1.005"
+    4300024: "\u5186\u67F1.006"
+    4300026: "\u5186\u67F1.007"
+    4300028: "\u5186\u67F1.008"
+    4300030: "\u5186\u67F1.009"
+    4300032: "\u5186\u67F1.010"
+    4300034: "\u5186\u67F1.011"
+    4300036: "\u7403.006"
+    4300038: "\u7403.002"
+    4300040: "\u7403.003"
+    4300042: "\u7403.004"
+    4300044: "\u7403.005"
+    4300046: "\u7403.007"
+    4300048: "\u7403.008"
+    4300050: "\u7403.009"
+    4300052: "\u7403.010"
+    4300054: "\u7403.011"
+    4300056: "\u7403.012"
+    4300058: "\u7403.013"
+    4300060: "\u7403.014"
+    4300062: "\u7403.015"
+    4300064: "\u7403.016"
+    4300066: "\u7403.017"
+    4300068: "\u7403.018"
+    4300070: "\u7403.019"
+    4300072: "\u7403.020"
+    4300074: "\u7403.021"
+    4300076: "\u7403.022"
+    4300078: "\u7403.023"
+    4300080: "\u7403.024"
+    4300082: "\u7403.025"
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_NA2
+    second: {fileID: 2100000, guid: 72029808ec4a0014b94d972a40f57b1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_Wndow_a
+    second: {fileID: 2100000, guid: c8e89ec3ee1e99d4f9a126bb683e3554, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_Wndow_a.001
+    second: {fileID: 2100000, guid: d446fd5b4286fc34483b3735ddbc19d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_jiki_a
+    second: {fileID: 2100000, guid: 2e6998393ebb72c4cbc48c14a42f1270, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_line
+    second: {fileID: 2100000, guid: 8c6bcd4bfb55fd34ca011528cda677cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_window
+    second: {fileID: 2100000, guid: 6a1d9c331f8a54a4bacc5bd53ca01be1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_window.001
+    second: {fileID: 2100000, guid: cf8557f344e5d5644aa1b9be02b68789, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oor_jiku
+    second: {fileID: 2100000, guid: 6560bbad8375a1a458e1e247087030a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ribet.004
+    second: {fileID: 2100000, guid: 96d94af544838f74fb43c5b2fe6df9da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ribet.006
+    second: {fileID: 2100000, guid: d25345c5825c7414b9d3d4d40426cc30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ribet.007
+    second: {fileID: 2100000, guid: 978656fd72dbf7a4ea13b1de2d34b84a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ribet.008
+    second: {fileID: 2100000, guid: 41b5cc2fb91d92143a095954c0f7dced, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ribet.009
+    second: {fileID: 2100000, guid: c7a263660a9057a438b5ddb7bf8b5574, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ribet.010
+    second: {fileID: 2100000, guid: 963211c82bde9314c8be024db91198f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ribet.011
+    second: {fileID: 2100000, guid: aef30b082223d7541b12b2c0f7e0dcc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ribet.012
+    second: {fileID: 2100000, guid: e95ff735aca83394b861d841ce6ae29d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ribet.013
+    second: {fileID: 2100000, guid: 73d91c408d69a4d4580ddb63212ed383, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ribet.014
+    second: {fileID: 2100000, guid: 334c4273cfe31ed48b813d3fba599658, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ribet.015
+    second: {fileID: 2100000, guid: c7bf82ba942c3c2408f43c16d28edceb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ribet.016
+    second: {fileID: 2100000, guid: c42ead421b7f7a14282c5a315e6eb09c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ribet.017
+    second: {fileID: 2100000, guid: 62e8d4f3f50da404ebde6d2d27283b25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ribet.018
+    second: {fileID: 2100000, guid: 8f332be13beb8c4428d4d343ab57b3b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ribet.019
+    second: {fileID: 2100000, guid: f8b318a5c4ed47e43b662597739ba460, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ribet.020
+    second: {fileID: 2100000, guid: 704e73848c22272498888bd81ab216c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ribet.021
+    second: {fileID: 2100000, guid: a7d9c605d636bc54586b0e39754b9928, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ribet.022
+    second: {fileID: 2100000, guid: 279b5ec1e8603fa4eb6fa6bb2d992cf7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ribet.023
+    second: {fileID: 2100000, guid: 16873e2f558b1e84ebc5cd4e119df506, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ribet.024
+    second: {fileID: 2100000, guid: 9048603dffa1ee84791017f3ba3b5828, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ribet.025
+    second: {fileID: 2100000, guid: 5ff8b541525a9274aa1c6e72068ac6a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ribet.026
+    second: {fileID: 2100000, guid: 727f4ff489df57c4fb86290af47483a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ribet.027
+    second: {fileID: 2100000, guid: 50987c7eb11ba784287bfe48eb62e685, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ribet.029
+    second: {fileID: 2100000, guid: 9b4a80651d4421d43b7ebf69208bded2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
